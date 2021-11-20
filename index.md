@@ -1,10 +1,10 @@
 # CHRONOLOGICAL SUMMARY OF EXPERIENCE
 
-```
-##_Data Analytics_
-### U.S. Bank (2016-Present)
--
-```
+>
+> ## _Data Analytics_
+> ### U.S. Bank (2016-Present)
+> -
+
 
 markdown
 Syntax highlighted code block
