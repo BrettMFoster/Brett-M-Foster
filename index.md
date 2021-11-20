@@ -1,9 +1,12 @@
 # CHRONOLOGICAL SUMMARY OF EXPERIENCE
 
-## Data Analytics
-## U.S. Bank
+```
+##_Data Analytics_
+### U.S. Bank (2016-Present)
+-
+```
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -19,7 +22,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
