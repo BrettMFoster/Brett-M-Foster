@@ -1,7 +1,7 @@
-### CHRONOLOGICAL SUMMARY OF EXPERIENCE
+# CHRONOLOGICAL SUMMARY OF EXPERIENCE
 
 ## Data Analytics
-U.S. Bank
+## U.S. Bank
 
 ```markdown
 Syntax highlighted code block
