@@ -1,14 +1,14 @@
 # CHRONOLOGICAL SUMMARY OF EXPERIENCE
 
 ## _Data Analytics_
-      U.S. Bank (2016-Present)
-      - Developed metrics, scorecards, and reporting rhythms for compliance reporting in Access, Excel, Tableau, PowerBI, and Business Objects.
-      - Maintained and distributed mortgage enterprise monthly and weekly Flood Findings report (2016-2021); monthly Operational Loss report (2016-2021) and monthly Key Performance Indicator (KPI) report (2017-2020); quarterly Key Indicator (KI) report (2016-2019) and Risk Complaints report (2016-2020).
-      - Wrote SQL queries for report development and analysis in Business Objects and SQL Server Management Studio (SSMS) (2016-2021). 
-      - Created over 300 Web Intelligence (Webi) reports for tracking business metrics. 
-      - Performed root cause analyses and communicated findings to business leaders.
-      - Automated reports using userforms, VBA, and SQL.
-      - Audited report warehouse to remove unused reports 
+   U.S. Bank (2016-Present)&nbsp;
+   - Developed metrics, scorecards, and reporting rhythms for compliance reporting in Access, Excel, Tableau, PowerBI, and Business Objects.
+   - Maintained and distributed mortgage enterprise monthly and weekly Flood Findings report (2016-2021); monthly Operational Loss report (2016-2021) and monthly Key Performance Indicator (KPI) report (2017-2020); quarterly Key Indicator (KI) report (2016-2019) and Risk Complaints report (2016-2020).
+   - Wrote SQL queries for report development and analysis in Business Objects and SQL Server Management Studio (SSMS) (2016-2021). 
+   - Created over 300 Web Intelligence (Webi) reports for tracking business metrics. 
+   - Performed root cause analyses and communicated findings to business leaders.
+   - Automated reports using userforms, VBA, and SQL.
+   - Audited report warehouse to remove unused reports 
 
 # Header 1
 ## Header 2
